@@ -42,20 +42,20 @@ The model classifies tweets into sentiment categories (such as positive, neutral
 
 <p align="center" style="font-style: italic;font-size : 12px;">
     Before Presidency
-    <img src="./img/disseb.png" alt="Line" width="70%">
+    <img src="./img/disseb.png" alt="Line" width="100%">
 </p>
 
 <p align="center" style="font-style: italic;font-size : 12px;">
     After Presidency
-    <img src="./img/disses.png" alt="Line" width="70%">
+    <img src="./img/disses.png" alt="Line" width="100%">
 </p>
 
 <p align="center" style="font-style: italic;font-size : 12px;">
     Before Presidency
-    <img src="./img/cloudseb.png" alt="Line" width="70%">
+    <img src="./img/cloudseb.png" alt="Line" width="100%">
 </p>
 
 <p align="center" style="font-style: italic;font-size : 12px;">
     After Presidency
-    <img src="./img/cloudses.png" alt="Line" width="70%">
+    <img src="./img/cloudses.png" alt="Line" width="100%">
 </p>
